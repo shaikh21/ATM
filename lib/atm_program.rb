@@ -9,5 +9,3 @@ module ATM
     Atm.new
   end
 end
-
-ATM.start
