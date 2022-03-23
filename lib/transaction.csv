@@ -1,2 +1,0 @@
-transaction_number,card_number,type,time,amount,status
-1,123456789012,Withdrawl,23/03/2022 12:05:36:am,102,Fail
